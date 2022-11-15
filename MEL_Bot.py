@@ -11,7 +11,7 @@ import json
 intents = nextcord.Intents.default()
 intents.members = True
 client=nextcord.Client(intents=intents)
-my_secret = "OTY1MzA5OTY0ODI0NDk4MTc3.YlxU9g.n8L6IzMMhYhNakff8paU2marvWM"
+
 
 
 #IDS
